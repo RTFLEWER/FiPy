@@ -1,0 +1,567 @@
+{
+    "spot_prices": {
+        "CME": {
+            "NDFM": 1.1163,
+            "Butter": 3.0244,
+            "Cheese": 1.955,
+            "Block Cheese": 1.8231,
+            "Whey": 0.4031,
+            "Class III Milk": 18,
+            "Class IV Milk": 20.5
+        },
+        "EEX": {
+            "SMP": 2400,
+            "Butter": 6500,
+            "Whey": 680,
+            "Liquid Milk": 44.5
+        },
+        "SGX": {
+            "SMP": 2680,
+            "WMP": 3400,
+            "AMF": 7200,
+            "Butter": 6700,
+            "Milk Price": 7.85
+        },
+        "GDT": {
+            "SMP": 2550,
+            "WMP": 3330,
+            "AMF": 7770
+        }
+    },
+    "futures": {
+        "CME": {
+            "NDFM": [
+                {
+                    "month": "May-24",
+                    "settle": 2530
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 2580
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 2636
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 2668
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 2701
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 2770
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 2888
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 2970
+                }
+            ],
+            "Butter": [
+                {
+                    "month": "May-24",
+                    "settle": 6669
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 6790
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 6889
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 6934
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 6900
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 6761
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 6221
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 6169
+                }
+            ],
+            "Cheese": [
+                {
+                    "month": "May-24",
+                    "settle": 4134
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 4301
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 4445
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 4475
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 4433
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 4228
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 4115
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 4105
+                }
+            ],
+            "Block Cheese": [
+                {
+                    "month": "May-24",
+                    "settle": 4030
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 4233
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 4292
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 4343
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 4332
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 4240
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 4141
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 4122
+                }
+            ],
+            "Whey": [
+                {
+                    "month": "May-24",
+                    "settle": 904
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 929
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 1017
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 1020
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 1047
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 1053
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 1036
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 1036
+                }
+            ],
+            "Class III Milk": [
+                {
+                    "month": "May-24",
+                    "settle": 18.60
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 19.38
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 20.29
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 20.50
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 20.38
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 19.59
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 18.80
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 18.59
+                }
+            ],
+            "Class IV Milk": [
+                {
+                    "month": "May-24",
+                    "settle": 20.57
+                },
+                {
+                    "month": "Jun-24",
+                    "settle": 20.84
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 21.31
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 21.53
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 21.65
+                },
+                {
+                    "month": "Dec-24",
+                    "settle": 21.52
+                },
+                {
+                    "month": "Mar-25",
+                    "settle": 20.85
+                },
+                {
+                    "month": "Jun-25",
+                    "settle": 20.36
+                }
+            ]
+        },
+        "EEX": {
+            "SMP": [
+                {
+                    "month": "Jun-24",
+                    "settle": 2639
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 2689
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 2737
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 2791
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 2862
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 2906
+                }
+            ],
+            "Butter": [
+                {
+                    "month": "Jun-24",
+                    "settle": 7148
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 7242
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 7378
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 7400
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 7388
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 7365
+                }
+            ],
+            "Whey": [
+                {
+                    "month": "Jun-24",
+                    "settle": 749
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 764
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 768
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 801
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 895
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 922
+                }
+            ],
+            "Liquid Milk": [
+                {
+                    "month": "Jun-24",
+                    "settle": 44.76
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 44.92
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 45.28
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 45.78
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 46.34
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 46.77
+                }
+            ]
+        },
+        "SGX": {
+            "SMP": [
+                {
+                    "month": "Jun-24",
+                    "settle": 2680
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 2670
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 2670
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 2675
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 2720
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 2760
+                }
+            ],
+            "WMP": [
+                {
+                    "month": "Jun-24",
+                    "settle": 3400
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 3285
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 3150
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 3150
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 3180
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 3225
+                }
+            ],
+            "AMF": [
+                {
+                    "month": "Jun-24",
+                    "settle": 7200
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 6900
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 6700
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 6550
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 6500
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 6350
+                }
+            ],
+            "Butter": [
+                {
+                    "month": "Jun-24",
+                    "settle": 6700
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 6675
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 6270
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 6200
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 6030
+                },
+                {
+                    "month": "Nov-24",
+                    "settle": 6030
+                }
+            ],
+            "Milk Price": [
+                {
+                    "month": "Sep-24",
+                    "settle": 7.85
+                },
+                {
+                    "month": "Sep-25",
+                    "settle": 8.50
+                },
+                {
+                    "month": "Sep-26",
+                    "settle": 8.35
+                }
+            ]
+        },
+        "GDT": {
+            "SMP": [
+                {
+                    "month": "Jun-24",
+                    "settle": 2575
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 2595
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 2710
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 2615
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 2610
+                }
+            ],
+            "WMP": [
+                {
+                    "month": "Jun-24",
+                    "settle": 3340
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 3365
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 3445
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 3370
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 3400
+                }
+            ],
+            "AMF": [
+                {
+                    "month": "Jun-24",
+                    "settle": 7760
+                },
+                {
+                    "month": "Jul-24",
+                    "settle": 7730
+                },
+                {
+                    "month": "Aug-24",
+                    "settle": 7390
+                },
+                {
+                    "month": "Sep-24",
+                    "settle": 7360
+                },
+                {
+                    "month": "Oct-24",
+                    "settle": 7215
+                }
+            ]
+        }
+    }
+}
