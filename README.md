@@ -7,3 +7,4 @@ Notebooks for analysis
 - 20 May - added USDJPY Asia fix analysis
 - 20 May - added notebook trying to replicate the analysis of a paper Bamba/Maynard 'hedging-effectiveness of milk futures using value-at-risk procedures'
 - 6 Jul - Added a webpage scrape notebook, that scrapes a website, creates a dataframe, does statistical analysis and a regression, and forecasts humidity given level of temperature
+- 17 Jul - added correl matrix for BTC and ETH with chart of rolling correl agst basket
